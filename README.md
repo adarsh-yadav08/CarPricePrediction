@@ -95,7 +95,7 @@ The final model provides reliable car price predictions and demonstrates how mac
 **Adarsh Yadav**
 
 * Aspiring Software Engineer / Machine Learning Enthusiast
-* GitHub: (Add your profile link here)
+* GitHub: (https://github.com/adarsh-yadav08)
 
 ---
 
